@@ -1,5 +1,5 @@
 # Linphone Desktop
-Linphone is an open source softphone for voice and video over IP calling and instant messaging!!!!!!!!!!!!!!!!!!!!!!!!
+Linphone is an open source softphone for voice and video over IP calling and instant messaging!!!!!!!!!!!!!!!!!!!!!!!!!
 
 It is fully SIP-based, for all calling, presence and IM features.
 
